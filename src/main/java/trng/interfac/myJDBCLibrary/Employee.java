@@ -8,6 +8,7 @@ public class Employee {
 	private String name;
 	private double salary;
 	private int age;
+	private int d;
 
 	{
 		salary = 10000;
